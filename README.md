@@ -54,11 +54,7 @@ Before running the script, ensure you have the following:
 ```bash
 git clone https://github.com/minecraftmuselk/warren.git
 cd warren
-
-# Stock Analysis Telegram Bot
-
-## Installation
-
+```
 ### 1. Install Required Libraries  
 Use the following command to install the necessary Python libraries:
 
