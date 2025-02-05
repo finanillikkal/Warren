@@ -12,7 +12,6 @@ This Python script analyzes stock data using multiple trading strategies and sen
 5. [Running the Script](#running-the-script)
 6. [Scheduling the Script](#scheduling-the-script)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
@@ -159,11 +158,6 @@ Contributions are welcome! Follow these steps to contribute:
    ```
 
 5. Open a **pull request**.
-
----
-
-## License  
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
 
