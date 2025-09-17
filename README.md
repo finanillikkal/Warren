@@ -158,4 +158,4 @@ Contributions are welcome! Follow these steps to contribute:
 ---
 
 ## Support  
-If you encounter any issues or have questions, please **open an issue** on GitHub or contact the maintainer.
+If you encounter any issues or have questions, please **open an issue** on GitHub or contact me: finani007@gmail.com.
